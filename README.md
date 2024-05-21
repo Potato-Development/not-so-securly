@@ -1,4 +1,4 @@
-# not-so-securly WORK IN PROGRESS
+# not-so-securly
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Potato-Development/not-so-securly)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Potato-Development/not-so-securly)
