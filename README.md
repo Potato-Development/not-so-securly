@@ -4,6 +4,12 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/Potato-Development/not-so-securly)
 ![GitHub last commit](https://img.shields.io/github/last-commit/Potato-Development/not-so-securly)
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 # Introduction
 
 Not-So-Securly is an extension that runs on all chromium based browsers, e.g. Chrome, Edge, Arc, Brave...
