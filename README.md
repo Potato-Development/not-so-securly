@@ -32,8 +32,12 @@ It bypasses all securly restrictions (blocked pages) and filters in chromium bro
 
 7. Pin to your toolbar or hide as you wish. If you use incognito mode, make sure you check ```Allow in incognito``` in the ```Details``` page.
 
+   ![image](https://github.com/Potato-Development/not-so-securly/assets/119129834/3162e586-d3ee-44b1-85a1-ae9bfea9825f)
+
 8. Click on the extension icon to open the popup.
    
    ![image](https://github.com/Potato-Development/not-so-securly/assets/119129834/9f519545-1461-456e-9ff3-0f2dc707db3d)
 
 9. Click ```Connect```. If you see the status message ```Connected to proxy``` then the connection is successful. **For certain websites, you may have to wait for longer or reload the site a couple times.**
+
+![image](https://github.com/Potato-Development/not-so-securly/assets/119129834/8f643bbb-4b46-46b9-bfb5-0d18eaff34cc)
