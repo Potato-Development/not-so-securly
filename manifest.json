@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "Not So Securly",
+    "version": "1.0",
+    "description": "Use at your own risk.",
+    "permissions": [
+      "proxy",
+      "storage",
+      "activeTab",
+      "scripting"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "icons": {
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png"
+      }
+  }
+  
