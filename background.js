@@ -1,6 +1,6 @@
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
     if (request.action === 'connect') {
-      setProxy('144.21.52.220', '3128', sendResponse);
+      setProxy('92.207.253.226', '38157', sendResponse);
       return true; // Keep the message channel open for sendResponse
     } else if (request.action === 'disconnect') {
       clearProxy(sendResponse);
