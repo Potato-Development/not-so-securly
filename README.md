@@ -17,7 +17,7 @@ It bypasses all securly restrictions (blocked pages) and filters in chromium bro
 
 # Installation (with pictures)
 
-1. Download : https://github.com/Potato-Development/not-so-securly/archive/refs/heads/main.zip the source files.
+1. Download: https://github.com/Potato-Development/not-so-securly/archive/refs/heads/main.zip the source files.
 2. Extract them to a folder of your choice.
 3. Open your browser.
    
